@@ -1,8 +1,6 @@
-# ModernGL, OpenGL and Vulkan API graphics rendering
+# Vulkan API graphics rendering
 
-_An open exploration of modern 3D rendering in ModernGL, OpenGL and Vulkan._
-
-`👀 Be an early user on my discord for discussions on OpenGL, Vulkan, and game development. I'll also be in the ModernGL discord too. - Charlie` <https://discord.gg/Bkhpm8QQ>
+_An open exploration of modern 3D rendering in Vulkan._
 
 I've written a summary of the code eco-system and setup guide for newbies; then a series of subsections with code demonstrations of techniques with an associated code folder provided in this repo for you to explore.
 
